@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @M1dnite
 - 👀 I’m interested in Full Stack web development
-- 🌱 I’m currently learning node and typescript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning typescript, Node and Competetive programming
+- 💞️ I’m looking to collaborate on anything related to Web Development and Python Programming
 - 📫 How to reach me vikas.dodera@gmail.com
 
 <!---
