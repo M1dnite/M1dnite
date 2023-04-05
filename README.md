@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/vickgwda" target="blank"><img src="https://img.shields.io/twitter/follow/vickgwda?logo=twitter&style=for-the-badge" alt="vickgwda" /></a> </p>
 
-- 🌱 I’m currently learning **Competitive Programming in C++ and Unity game development**
+- 🌱 I’m currently learning **Competitive Programming in C++ and reading papers related to OpenAI**
 
-- 💬 Ask me about **NodeJs, Deepmind's scientific papers and DOTA 2**
+- 💬 Ask me about **ReactJs, Deepmind's scientific papers and DOTA 2**
 
-- 📫 How to reach me **thimmiaha.vikas@gmail.com**
+- 📫 How to reach me **thimmiaha.vikas@gmail.com | vikas.dodera@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
