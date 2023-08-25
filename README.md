@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vickgwda" target="blank"><img src="https://img.shields.io/twitter/follow/vickgwda?logo=twitter&style=for-the-badge" alt="vickgwda" /></a> </p>
 
-- 🌱 I’m currently learning reading papers related to OpenAI and developing some web applications using ReactJs**
+- 🌱 I’m currently ** contributing to opensource projects, reading papers related to OpenAI and developing web applications using ReactJs**
 
 - 💬 Ask me about **ReactJs, Deepmind's scientific papers and DOTA 2**
 
