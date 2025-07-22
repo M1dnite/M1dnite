@@ -1,4 +1,4 @@
-![MasterHead](https://ksr-ugc.imgix.net/assets/021/079/659/cdf55ab2ee86441598467ef4c0e9cf64_original.gif?ixlib=rb-2.1.0&w=680&fit=max&v=1525186770&auto=format&gif-q=50&q=92&s=fc2887a45490deabd08f3214d992f6ed)!
+![MasterHead](https://ksr-ugc.imgix.net/assets/021/079/659/cdf55ab2ee86441598467ef4c0e9cf64_original.gif?ixlib=rb-2.1.0&w=680&fit=max&v=1525186770&auto=format&gif-q=50&q=92&s=fc2887a45490deabd08f3214d992f6ed)
 <h1 align="center">Hi 👋, I'm M1dnite</h1>
 <h3 align="center">Full Stack Developer / Software Architect</h3>
 
