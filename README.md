@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m1dnite&label=Profile%20views&color=0e75b6&style=flat" alt="m1dnite" /> </p>
 
 
-- 🌱 I’m currently **developing RAG projects, learning and reading about MCPS and agent to agent development, working as a developer in a software firm and making new solution architectures for POC'S / Applications**
+- 🌱 I’m currently **developing RAG projects, learning and reading about anthropic paper about MCP and also agent to agent, working as a developer in a software firm and making new solution architectures for POC'S / Applications**
 
 - 💬 Ask me about **ReactJs, python, RAG apps and Video Games**
 
@@ -30,11 +30,9 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://openai.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="openai" width="40" height="40"/> </a>
-<a href="https://www.anthropic.com" target="_blank" rel="noreferrer"> <img src="https://www.anthropic.com/images/anthropic-logo-dark.svg" alt="anthropic" width="100" /> </a>
 <a href="https://ollama.com" target="_blank" rel="noreferrer"> <img src="https://ollama.com/public/ollama.png" alt="ollama" width="40" height="40" /> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.langchain.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/images/logo.svg" alt="langchain" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </p>
