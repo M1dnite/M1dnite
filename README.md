@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m1dnite&label=Profile%20views&color=0e75b6&style=flat" alt="m1dnite" /> </p>
 
 
-- 🌱 I’m currently **developing RAG projects, learning and reading about MCPS and agent to agent development, working as a developer in a software firm and making new solution architechtures for POC'S / Applications**
+- 🌱 I’m currently **developing RAG projects, learning and reading about MCPS and agent to agent development, working as a developer in a software firm and making new solution architectures for POC'S / Applications**
 
 - 💬 Ask me about **ReactJs, python, RAG apps and Video Games**
 
